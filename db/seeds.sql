@@ -1,1 +1,1 @@
-INSERT INTO burger(name) VALUES ('Big Mac');
+INSERT INTO burgers (name, eaten) VALUES ('big mac', false);

@@ -1,0 +1,10 @@
+h1 {
+  text-align: center;
+}
+
+.create-form {
+  display: flex;
+  justify-content: center;
+  /* flex: wrap;  */
+  /* align-items: center; */
+}
