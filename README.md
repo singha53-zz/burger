@@ -47,7 +47,7 @@ $ git push heroku master
 ```
 
 ## Walkthroughs
-![GIF](https://github.com/singha53/FriendFinder/blob/master/walkthrough.gif)
+![GIF](https://github.com/singha53/burger/blob/master/public/assets/images/burger.gif)
 
 ## Programming/Scripting Languages
 ### Front-end
