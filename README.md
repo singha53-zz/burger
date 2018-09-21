@@ -68,6 +68,7 @@ branch. Pull requests are warmly welcome.
 ## Links
 
 - Repository: https://github.com/singha53/https://github.com/singha53/burger/
+- Deployed site: https://burger-uft.herokuapp.com/
 
 ## Licensing
 
